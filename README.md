@@ -1,6 +1,6 @@
 
 # Email Sender Tool
-# Creted by Princeimm
+# Creted by Princeimmanue
 
 This script allows you to send emails using the SMTP protocol. It utilizes the `smtplib` library to establish a connection with an SMTP server and send the email message.
 
