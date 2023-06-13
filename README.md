@@ -32,8 +32,8 @@ This script allows you to send emails using the SMTP protocol. It utilizes the `
 
 5. The script will send the email using the provided information. 
 ## STEPS TO RUN TOOL
--Using 'git clone to cone this repository'
--Using cd change the directory 'JPMAIL'
--'python3 JPmail.py
+- Using 'git clone to cone this repository'
+- Using cd change the directory 'JPMAIL'
+- 'python3 JPmail.py' run this tool
 
 
