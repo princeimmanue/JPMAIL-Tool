@@ -34,7 +34,7 @@ code = f'''
 {RED}   ::        :: pp
 {RED}   ::        :: pp
 {RED}   ::        :: pp
-{RED}   :::::::::::: pp         {ORANGE} MAILL {RED}Version : {{1.0}}
+{RED}   :::::::::::: pp         {ORANGE} MAILL {GREEN}Version : {{1.0}}
                           
 
 {GREEN}[{WHITE}-{GREEN}]{CYAN} Tool Created by PRINCE IMMANUEL (Princeimm){WHITE}
